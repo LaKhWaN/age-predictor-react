@@ -8,14 +8,6 @@ The Age Predictor App is a simple web application developed in React.js that all
 - Utilizes a Realtime Database API to store and retrieve data.
 - Minimalistic and user-friendly interface.
 
-## Demo
-
-[Link to Live Demo](#) - Insert the live demo link here once deployed.
-
-## Screenshots
-
-Insert screenshots of the app interface here.
-
 ## Installation
 
 Follow these steps to set up the Age Predictor App locally:
